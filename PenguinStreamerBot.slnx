@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PenguinStreamerBot.Models/PenguinStreamerBot.Models.csproj" />
+  <Project Path="PenguinStreamerBot.Postgres/PenguinStreamerBot.Postgres.csproj" />
+  <Project Path="PenguinStreamerBot.Sqlite/PenguinStreamerBot.Sqlite.csproj" />
+  <Project Path="PenguinStreamerBot/PenguinStreamerBot.csproj" />
+</Solution>
